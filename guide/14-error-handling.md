@@ -1,4 +1,4 @@
-# 13. Error Handling
+﻿# 14. Error Handling
 
 Things go wrong — bad input, failed network requests, typos in code. Error handling lets your program fail gracefully instead of crashing.
 
@@ -83,4 +83,4 @@ function divide(a, b) {
 // Call divide(10, 2) inside the same try/catch and log the result.
 ```
 
-Next up: [14. Promises](14-promises.md) →
+Next up: [15. Promises](15-promises.md) →

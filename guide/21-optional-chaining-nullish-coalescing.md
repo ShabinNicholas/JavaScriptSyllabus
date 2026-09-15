@@ -1,4 +1,4 @@
-# 20. Optional Chaining & Nullish Coalescing
+﻿# 21. Optional Chaining & Nullish Coalescing
 
 Two small operators that make working with uncertain data — like an API response — much safer and shorter to write.
 
@@ -77,4 +77,4 @@ const response = { data: { items: [] } };
 // Then test it against a response where `data` itself is undefined.
 ```
 
-Next up: [21. Modules](21-modules.md) →
+Next up: [22. Modules](22-modules.md) →

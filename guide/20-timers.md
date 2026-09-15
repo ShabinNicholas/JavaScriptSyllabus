@@ -1,4 +1,4 @@
-# 19. Timers
+﻿# 20. Timers
 
 Timers let you run code after a delay, or repeatedly on an interval.
 
@@ -65,4 +65,4 @@ setTimeout(() => {
 // Hint: use setInterval + clearInterval together.
 ```
 
-Next up: [20. Optional Chaining & Nullish Coalescing](20-optional-chaining-nullish-coalescing.md) →
+Next up: [21. Optional Chaining & Nullish Coalescing](21-optional-chaining-nullish-coalescing.md) →

@@ -1,4 +1,4 @@
-# 17. Scope & Closures
+﻿# 18. Scope & Closures
 
 Scope determines **where** a variable can be accessed. Understanding it prevents a huge class of confusing bugs.
 
@@ -96,4 +96,4 @@ Closures are how you build private state in JavaScript, and they power patterns 
 // keep the balance private (not accessible directly from outside).
 ```
 
-Next up: [18. ES6+ Features](18-es6-features.md) →
+Next up: [19. ES6+ Features](19-es6-features.md) →

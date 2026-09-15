@@ -1,4 +1,4 @@
-# 24. Classes (OOP)
+﻿# 25. Classes (OOP)
 
 Classes are templates for creating objects that share the same shape and behavior — the foundation of object-oriented programming in JavaScript. Under the hood, they're built on the same prototypes and closures you've already learned, just with friendlier syntax.
 
@@ -92,4 +92,4 @@ buddy.makeSound();
 // and adds a method `area()` that returns Math.PI * radius ** 2.
 ```
 
-Next up: [25. Node.js](25-nodejs.md) →
+Next up: [26. Node.js](26-nodejs.md) →

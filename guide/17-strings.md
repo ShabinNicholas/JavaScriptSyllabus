@@ -1,4 +1,4 @@
-# 16. Strings
+﻿# 17. Strings
 
 Strings come with plenty of built-in methods for reading and transforming text.
 
@@ -97,4 +97,4 @@ const messy = "   javaScript is FUN!   ";
 // Finally, use a template literal to log: "Cleaned: {result}"
 ```
 
-Next up: [17. Scope & Closures](17-scope-and-closures.md) →
+Next up: [18. Scope & Closures](18-scope-and-closures.md) →

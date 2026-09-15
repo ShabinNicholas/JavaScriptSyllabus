@@ -1,4 +1,4 @@
-# 15. Asynchronous JavaScript
+﻿# 16. Asynchronous JavaScript
 
 `async`/`await` is modern syntax built on top of Promises (see [Promises](14-promises.md)) that lets asynchronous code **read like normal, top-to-bottom synchronous code** — no chains of `.then()`.
 
@@ -94,4 +94,4 @@ function fetchPosts() {
 // in PARALLEL using Promise.all, then logs both results.
 ```
 
-Next up: [16. Strings](16-strings.md) →
+Next up: [17. Strings](17-strings.md) →

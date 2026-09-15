@@ -1,4 +1,4 @@
-# 25. Node.js
+﻿# 26. Node.js
 
 Everything so far runs in a browser. **Node.js** lets you run JavaScript outside the browser — on a server, in a terminal, or as a script on your own machine. It's the same JavaScript language you already know, plus extra built-in tools browsers don't have (like file system access).
 
@@ -23,7 +23,7 @@ Everything from earlier chapters — variables, functions, arrays, classes, `asy
 
 ## CommonJS modules (`require` / `module.exports`)
 
-Node traditionally uses its own module system, alongside the ES module `import`/`export` syntax from [chapter 21](21-modules.md).
+Node traditionally uses its own module system, alongside the ES module `import`/`export` syntax from [chapter 22](22-modules.md).
 
 ```js
 // mathUtils.js

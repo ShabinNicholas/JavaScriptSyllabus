@@ -20,22 +20,23 @@
   - [12. DOM Manipulation](guide/12-dom-manipulation.md)
 
 - **Errors & Async**
-  - [13. Error Handling](guide/13-error-handling.md)
-  - [14. Promises](guide/14-promises.md)
-  - [15. Asynchronous JavaScript](guide/15-asynchronous-javascript.md)
+  - [13. Web Storage](guide/13-web-storage.md)
+  - [14. Error Handling](guide/14-error-handling.md)
+  - [15. Promises](guide/15-promises.md)
+  - [16. Asynchronous JavaScript](guide/16-asynchronous-javascript.md)
 
 - **Strings, Scope & Modern JS**
-  - [16. Strings](guide/16-strings.md)
-  - [17. Scope & Closures](guide/17-scope-and-closures.md)
-  - [18. ES6+ Features](guide/18-es6-features.md)
-  - [19. Timers](guide/19-timers.md)
-  - [20. Optional Chaining & Nullish Coalescing](guide/20-optional-chaining-nullish-coalescing.md)
+  - [17. Strings](guide/17-strings.md)
+  - [18. Scope & Closures](guide/18-scope-and-closures.md)
+  - [19. ES6+ Features](guide/19-es6-features.md)
+  - [20. Timers](guide/20-timers.md)
+  - [21. Optional Chaining & Nullish Coalescing](guide/21-optional-chaining-nullish-coalescing.md)
 
 - **Modules, Data & OOP**
-  - [21. Modules](guide/21-modules.md)
-  - [22. Dates](guide/22-dates.md)
-  - [23. Working with Data](guide/23-working-with-data.md)
-  - [24. Classes (OOP)](guide/24-classes-oop.md)
+  - [22. Modules](guide/22-modules.md)
+  - [23. Dates](guide/23-dates.md)
+  - [24. Working with Data](guide/24-working-with-data.md)
+  - [25. Classes (OOP)](guide/25-classes-oop.md)
 
 - **Beyond the Browser**
-  - [25. Node.js](guide/25-nodejs.md)
+  - [26. Node.js](guide/26-nodejs.md)

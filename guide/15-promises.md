@@ -1,4 +1,4 @@
-# 14. Promises
+﻿# 15. Promises
 
 A **Promise** represents a value that isn't ready yet, but will be — eventually — either successfully (**resolved**) or unsuccessfully (**rejected**). They're JavaScript's answer to "how do I handle something that takes time?" (like a network request).
 
@@ -83,4 +83,4 @@ function fakeApiCall(shouldSucceed) {
 // Then try fakeApiCall(false) and confirm .catch() runs instead.
 ```
 
-Next up: [15. Asynchronous JavaScript](15-asynchronous-javascript.md) →
+Next up: [16. Asynchronous JavaScript](16-asynchronous-javascript.md) →

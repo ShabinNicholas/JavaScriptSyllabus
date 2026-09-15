@@ -80,4 +80,4 @@ button.addEventListener("click", () => {
 // Hint: document.getElementById("preview").style.backgroundColor = ...
 ```
 
-Next up: [13. Error Handling](13-error-handling.md) →
+Next up: [13. Web Storage](13-web-storage.md) →

@@ -1,4 +1,4 @@
-# 18. ES6+ Features
+﻿# 19. ES6+ Features
 
 "ES6" (ECMAScript 2015) introduced a wave of syntax that makes JavaScript much nicer to write. Here are three you'll use constantly.
 
@@ -80,4 +80,4 @@ introduce("Mia", "reading", "hiking", "chess");
 // Write a function `logAll(...args)` that logs every argument passed to it.
 ```
 
-Next up: [19. Timers](19-timers.md) →
+Next up: [20. Timers](20-timers.md) →

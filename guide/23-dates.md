@@ -1,4 +1,4 @@
-# 22. Dates
+﻿# 23. Dates
 
 JavaScript's built-in `Date` object handles dates and times.
 
@@ -70,4 +70,4 @@ console.log(deadline > today); // true, if today is before Dec 31, 2026
 // Then log it nicely formatted with toLocaleDateString().
 ```
 
-Next up: [23. Working with Data](23-working-with-data.md) →
+Next up: [24. Working with Data](24-working-with-data.md) →

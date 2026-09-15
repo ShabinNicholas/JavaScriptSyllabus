@@ -1,4 +1,4 @@
-# 21. Modules
+﻿# 22. Modules
 
 Modules let you split code across multiple files, each exposing only what it wants to share. This keeps large projects organized and avoids polluting the global scope.
 
@@ -80,4 +80,4 @@ console.log(ROLE_ADMIN); // "admin"
 // Create a file `main.js` that imports both and uses them on a sample string.
 ```
 
-Next up: [22. Dates](22-dates.md) →
+Next up: [23. Dates](23-dates.md) →

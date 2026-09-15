@@ -1,4 +1,4 @@
-# 23. Working with Data
+﻿# 24. Working with Data
 
 Real apps need to send and receive data — usually as JSON — over the network. Here's the toolkit.
 
@@ -40,7 +40,7 @@ fetch("https://api.example.com/users/1")
   .catch((error) => console.log("Request failed:", error));
 ```
 
-With `async`/`await` (see [chapter 15](15-asynchronous-javascript.md)) — the same request, easier to read:
+With `async`/`await` (see [chapter 16](16-asynchronous-javascript.md)) — the same request, easier to read:
 
 ```js
 async function getUser(id) {
@@ -96,4 +96,4 @@ const localData = { id: 1, title: "Learn JS", done: false };
 // and log the response data.
 ```
 
-Next up: [24. Classes (OOP)](24-classes-oop.md) →
+Next up: [25. Classes (OOP)](25-classes-oop.md) →
